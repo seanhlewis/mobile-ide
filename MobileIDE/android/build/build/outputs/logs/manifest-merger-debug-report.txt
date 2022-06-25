@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 meta-data#org.godotengine.editor.version
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:33:9-35:53
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:33:9-35:53
 	android:value
-		INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml
+		INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml
 manifest
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:2:1-102:12
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:2:1-102:12
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:2:1-102:12
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:2:1-102:12
-MERGED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:2:1-102:12
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:2:1-102:12
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:2:1-102:12
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:2:1-102:12
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:2:1-102:12
+MERGED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:2:1-102:12
 MERGED from [godot-lib.debug.aar] C:\Users\sean\.gradle\caches\transforms-3\b35bc23b2fd7ec894ca9e79e551d92ff\transformed\jetified-godot-lib.debug\AndroidManifest.xml:2:1-26:12
 MERGED from [GodotPlayGamesServices.release.aar] C:\Users\sean\.gradle\caches\transforms-3\918bde90d7975793083e4cdb3c3e3a73\transformed\jetified-GodotPlayGamesServices.release\AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\sean\.gradle\caches\transforms-3\0464ab3f85cbed706e0484eed3d5bf3f\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:17:1-40:12
@@ -35,55 +35,55 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sean\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\sean\.gradle\caches\transforms-3\7d9ba74b9597ce35c6ef51a7859c1ef6\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sean\.gradle\caches\transforms-3\c87a716243e7a9480128d75620d71b97\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sean\.gradle\caches\transforms-3\b13813e9af3a4a27dcf0caa0be9c343d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:4:5-29
-		INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:4:5-29
-		INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:4:5-29
+		INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:4:5-29
+		INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:6:5-30
-		INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:6:5-30
-		INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:6:5-30
+		INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:6:5-30
+		INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:3:5-51
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:2:11-69
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:5:5-28
-		INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:5:5-28
-		INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:5:5-28
+		INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:5:5-28
+		INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml
 	android:installLocation
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:7:5-35
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:7:5-35
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:7:5-35
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:7:5-35
 supports-screens
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:12:5-16:40
-REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:12:5-16:40
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:12:5-16:40
+REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:12:5-16:40
 	tools:node
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:5:9-29
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:5:9-29
 	android:largeScreens
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:15:9-36
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:15:9-36
 	android:smallScreens
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:13:9-36
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:13:9-36
 	android:normalScreens
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:14:9-37
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:14:9-37
 	android:xlargeScreens
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:16:9-37
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:16:9-37
 uses-feature#0x00020000
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:18:5-20:35
-REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:18:5-20:35
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:18:5-20:35
+REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:18:5-20:35
 	android:glEsVersion
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:19:9-41
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:19:9-41
 	android:required
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:20:9-32
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:20:9-32
 application
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:5-100:19
-MERGED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:5-100:19
-MERGED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:5-100:19
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:5-100:19
+MERGED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:5-100:19
+MERGED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:5-100:19
 MERGED from [godot-lib.debug.aar] C:\Users\sean\.gradle\caches\transforms-3\b35bc23b2fd7ec894ca9e79e551d92ff\transformed\jetified-godot-lib.debug\AndroidManifest.xml:16:5-24:19
 MERGED from [godot-lib.debug.aar] C:\Users\sean\.gradle\caches\transforms-3\b35bc23b2fd7ec894ca9e79e551d92ff\transformed\jetified-godot-lib.debug\AndroidManifest.xml:16:5-24:19
 MERGED from [GodotPlayGamesServices.release.aar] C:\Users\sean\.gradle\caches\transforms-3\918bde90d7975793083e4cdb3c3e3a73\transformed\jetified-GodotPlayGamesServices.release\AndroidManifest.xml:13:5-17:19
@@ -105,127 +105,127 @@ MERGED from [androidx.core:core:1.2.0] C:\Users\sean\.gradle\caches\transforms-3
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sean\.gradle\caches\transforms-3\bf21ca953b3075d7a19bd639e0398674\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sean\.gradle\caches\transforms-3\bf21ca953b3075d7a19bd639e0398674\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:requestLegacyExternalStorage
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:153-197
-		REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:153-197
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:153-197
+		REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:153-197
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] C:\Users\sean\.gradle\caches\transforms-3\f468396e8f36529b92fb98842a149f3b\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:18-67
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:18-67
 	tools:ignore
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:198-237
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:198-237
 	android:icon
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:238-265
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:238-265
 	android:allowBackup
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:68-95
-		REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:68-95
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:68-95
+		REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:68-95
 	tools:replace
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:22:9-123
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:22:9-123
 	android:isGame
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:96-117
-		REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:96-117
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:96-117
+		REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:96-117
 	android:hasFragileUserData
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:118-152
-		REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:118-152
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:118-152
+		REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:118-152
 meta-data#xr_mode_metadata_name
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:41:9-43:54
-REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:41:9-43:54
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:41:9-43:54
+REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:41:9-43:54
 	tools:node
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:26:20-39
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:26:20-39
 	android:value
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:43:13-51
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:43:13-51
 	android:name
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:42:13-49
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:42:13-49
 meta-data#xr_hand_tracking_metadata_name
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:48:9-50:62
-REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:48:9-50:62
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:48:9-50:62
+REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:48:9-50:62
 	tools:node
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:27:20-39
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:27:20-39
 	android:value
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:50:13-60
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:50:13-60
 	android:name
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:49:13-58
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:49:13-58
 meta-data#com.oculus.supportedDevices
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:54:9-56:35
-REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:54:9-56:35
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:54:9-56:35
+REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:54:9-56:35
 	tools:node
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:28:20-39
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:28:20-39
 	android:value
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:56:13-32
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:56:13-32
 	android:name
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:55:13-55
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:55:13-55
 meta-data#com.google.android.gms.games.APP_ID
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:61:9-62:46
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:61:9-62:46
 	android:value
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:62:13-43
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:62:13-43
 	android:name
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:61:20-70
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:61:20-70
 meta-data#com.google.android.gms.version
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:64:7-65:68
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:64:7-65:68
 MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\sean\.gradle\caches\transforms-3\f5b9769f625935d8b72abb34eeba7c7b\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\sean\.gradle\caches\transforms-3\f5b9769f625935d8b72abb34eeba7c7b\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:65:13-66
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:65:13-66
 	android:name
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:64:18-63
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:64:18-63
 activity#com.godot.game.GodotApp
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:72:9-94:20
-MERGED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:72:9-94:20
-MERGED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:72:9-94:20
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:72:9-94:20
+MERGED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:72:9-94:20
+MERGED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:72:9-94:20
 	android:screenOrientation
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:78:13-50
-		REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:78:13-50
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:78:13-50
+		REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:78:13-50
 	android:label
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:74:13-62
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:74:13-62
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:74:13-62
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:74:13-62
 	android:excludeFromRecents
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:77:13-47
-		REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:77:13-47
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:77:13-47
+		REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:77:13-47
 	android:launchMode
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:76:13-44
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:76:13-44
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:76:13-44
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:76:13-44
 	android:resizeableActivity
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:80:13-47
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:80:13-47
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:80:13-47
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:80:13-47
 	tools:ignore
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:81:13-43
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:81:13-43
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:81:13-43
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:81:13-43
 	android:configChanges
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:79:13-141
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:79:13-141
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:79:13-141
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:79:13-141
 	android:theme
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:75:13-55
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:75:13-55
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:75:13-55
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:75:13-55
 	tools:replace
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:29:58-126
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:29:58-126
 	android:name
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:73:13-37
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:73:13-37
 meta-data#com.oculus.vr.focusaware
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:84:13-87
-REJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:84:13-87
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:84:13-87
+REJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:84:13-87
 	tools:node
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:30:24-43
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:30:24-43
 	android:value
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:84:64-84
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:84:64-84
 	android:name
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:84:24-63
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:84:24-63
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:86:13-93:29
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:86:13-93:29
 action#android.intent.action.MAIN
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:87:17-69
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:87:17-69
 	android:name
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:87:25-66
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:87:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:88:17-77
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:88:17-77
 	android:name
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:88:27-74
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:88:27-74
 category#com.oculus.intent.category.VR
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:92:17-74
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:92:17-74
 	android:name
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:92:27-71
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:92:27-71
 uses-sdk
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml
 MERGED from [godot-lib.debug.aar] C:\Users\sean\.gradle\caches\transforms-3\b35bc23b2fd7ec894ca9e79e551d92ff\transformed\jetified-godot-lib.debug\AndroidManifest.xml:6:5-8:41
 MERGED from [godot-lib.debug.aar] C:\Users\sean\.gradle\caches\transforms-3\b35bc23b2fd7ec894ca9e79e551d92ff\transformed\jetified-godot-lib.debug\AndroidManifest.xml:6:5-8:41
 MERGED from [GodotPlayGamesServices.release.aar] C:\Users\sean\.gradle\caches\transforms-3\918bde90d7975793083e4cdb3c3e3a73\transformed\jetified-GodotPlayGamesServices.release\AndroidManifest.xml:7:5-9:41
@@ -278,33 +278,33 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sean\.gradle\caches
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sean\.gradle\caches\transforms-3\c87a716243e7a9480128d75620d71b97\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sean\.gradle\caches\transforms-3\b13813e9af3a4a27dcf0caa0be9c343d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sean\.gradle\caches\transforms-3\b13813e9af3a4a27dcf0caa0be9c343d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml
-INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml
+INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml
-		INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml
+		INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml
+		INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml
-		INJECTED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml
+		INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml
+		INJECTED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml
 uses-feature#0x00030000
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:5-78
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:5-78
 	android:glEsVersion
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:19-51
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:19-51
 	android:required
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:52-75
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:52-75
 instrumentation
-ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:11:5-16:63
+ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:11:5-16:63
 REJECTED from [godot-lib.debug.aar] C:\Users\sean\.gradle\caches\transforms-3\b35bc23b2fd7ec894ca9e79e551d92ff\transformed\jetified-godot-lib.debug\AndroidManifest.xml:10:5-14:57
 	tools:node
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:12:9-29
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:12:9-29
 	android:label
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:15:9-58
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:15:9-58
 	android:icon
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:14:9-36
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:14:9-36
 	android:targetPackage
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:16:9-60
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:16:9-60
 	android:name
-		ADDED from D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:13:9-45
+		ADDED from D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:13:9-45
 meta-data#org.godotengine.library.version
 ADDED from [godot-lib.debug.aar] C:\Users\sean\.gradle\caches\transforms-3\b35bc23b2fd7ec894ca9e79e551d92ff\transformed\jetified-godot-lib.debug\AndroidManifest.xml:19:9-21:44
 	android:value

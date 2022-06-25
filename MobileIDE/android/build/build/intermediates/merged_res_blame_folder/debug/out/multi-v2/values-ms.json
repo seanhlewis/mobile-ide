@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Documents\\GITHUB-SHARED\\MobileIDE\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+            "outputFile": "D:\\Documents\\GitHub\\mobile-ide\\MobileIDE\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sean\\.gradle\\caches\\transforms-3\\f5b9769f625935d8b72abb34eeba7c7b\\transformed\\jetified-play-services-basement-17.4.0\\res\\values-ms\\values.xml",

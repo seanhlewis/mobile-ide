@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Documents\\GITHUB-SHARED\\MobileIDE\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Documents\\GitHub\\mobile-ide\\MobileIDE\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sean\\.gradle\\caches\\transforms-3\\e956910f53c17cbe7384ae9f6e35d06c\\transformed\\jetified-savedstate-1.1.0\\res\\values\\values.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Documents\\GITHUB-SHARED\\MobileIDE\\android\\build\\res\\values\\godot_project_name_string.xml",
+                    "source": "D:\\Documents\\GitHub\\mobile-ide\\MobileIDE\\android\\build\\res\\values\\godot_project_name_string.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "1",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Documents\\GITHUB-SHARED\\MobileIDE\\android\\build\\res\\values\\strings.xml",
+                    "source": "D:\\Documents\\GitHub\\mobile-ide\\MobileIDE\\android\\build\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "5",
@@ -52,6 +52,25 @@
                         "startOffsets": "5778",
                         "endColumns": "46",
                         "endOffsets": "5820"
+                    }
+                },
+                {
+                    "source": "D:\\Documents\\GitHub\\mobile-ide\\MobileIDE\\android\\build\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "1,1",
+                        "startOffsets": "53,147",
+                        "endLines": "3,8",
+                        "endColumns": "92,9",
+                        "endOffsets": "144,371"
+                    },
+                    "to": {
+                        "startLines": "151,152",
+                        "startColumns": "4,4",
+                        "startOffsets": "11316,11412",
+                        "endLines": "151,155",
+                        "endColumns": "95,9",
+                        "endOffsets": "11407,11636"
                     }
                 },
                 {
@@ -141,25 +160,6 @@
                         "startOffsets": "5640,6865",
                         "endColumns": "67,166",
                         "endOffsets": "5703,7027"
-                    }
-                },
-                {
-                    "source": "D:\\Documents\\GITHUB-SHARED\\MobileIDE\\android\\build\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "3,5",
-                        "startColumns": "1,1",
-                        "startOffsets": "53,147",
-                        "endLines": "3,8",
-                        "endColumns": "92,9",
-                        "endOffsets": "144,371"
-                    },
-                    "to": {
-                        "startLines": "151,152",
-                        "startColumns": "4,4",
-                        "startOffsets": "11316,11412",
-                        "endLines": "151,155",
-                        "endColumns": "95,9",
-                        "endOffsets": "11407,11636"
                     }
                 },
                 {

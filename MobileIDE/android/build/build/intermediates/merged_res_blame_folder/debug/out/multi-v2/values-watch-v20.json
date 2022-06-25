@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Documents\\GITHUB-SHARED\\MobileIDE\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "D:\\Documents\\GitHub\\mobile-ide\\MobileIDE\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sean\\.gradle\\caches\\transforms-3\\0464ab3f85cbed706e0484eed3d5bf3f\\transformed\\jetified-play-services-auth-19.0.0\\res\\values-watch-v20\\values.xml",

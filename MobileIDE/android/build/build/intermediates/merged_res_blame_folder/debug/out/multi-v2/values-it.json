@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Documents\\GITHUB-SHARED\\MobileIDE\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
+            "outputFile": "D:\\Documents\\GitHub\\mobile-ide\\MobileIDE\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
             "map": [
+                {
+                    "source": "D:\\Documents\\GitHub\\mobile-ide\\MobileIDE\\android\\build\\res\\values-it\\godot_project_name_string.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "1",
+                        "startOffsets": "112",
+                        "endColumns": "58",
+                        "endOffsets": "169"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2816",
+                        "endColumns": "61",
+                        "endOffsets": "2873"
+                    }
+                },
                 {
                     "source": "C:\\Users\\sean\\.gradle\\caches\\transforms-3\\9732c2f4c68e5dee874741bc241accfc\\transformed\\jetified-play-services-base-17.4.0\\res\\values-it\\values.xml",
                     "from": {
@@ -35,23 +52,6 @@
                         "startOffsets": "2878",
                         "endColumns": "100",
                         "endOffsets": "2974"
-                    }
-                },
-                {
-                    "source": "D:\\Documents\\GITHUB-SHARED\\MobileIDE\\android\\build\\res\\values-it\\godot_project_name_string.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "1",
-                        "startOffsets": "112",
-                        "endColumns": "58",
-                        "endOffsets": "169"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2816",
-                        "endColumns": "61",
-                        "endOffsets": "2873"
                     }
                 },
                 {

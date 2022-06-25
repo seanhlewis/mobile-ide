@@ -9,90 +9,90 @@
 9        android:targetSdkVersion="30" />
 10
 11    <supports-screens
-11-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:12:5-16:40
+11-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:12:5-16:40
 12        android:largeScreens="true"
-12-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:15:9-36
+12-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:15:9-36
 13        android:normalScreens="true"
-13-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:14:9-37
+13-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:14:9-37
 14        android:smallScreens="true"
-14-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:13:9-36
+14-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:13:9-36
 15        android:xlargeScreens="true" />
-15-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:16:9-37
+15-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:16:9-37
 16
 17    <uses-feature
-17-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:5-78
+17-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:5-78
 18        android:glEsVersion="0x00030000"
-18-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:19-51
+18-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:19-51
 19        android:required="true" />
-19-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:52-75
+19-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:10:52-75
 20
 21    <instrumentation
-21-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:11:5-16:63
+21-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:11:5-16:63
 22        android:name=".GodotInstrumentation"
-22-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:13:9-45
+22-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:13:9-45
 23        android:icon="@mipmap/icon"
-23-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:14:9-36
+23-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:14:9-36
 24        android:label="@string/godot_project_name_string"
-24-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:15:9-58
+24-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:15:9-58
 25        android:targetPackage="com.siminskilewis.mobileide" />
-25-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\src\debug\AndroidManifest.xml:16:9-60
+25-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\src\debug\AndroidManifest.xml:16:9-60
 26
 27    <uses-permission android:name="android.permission.INTERNET" />
 27-->[GodotPlayGamesServices.release.aar] C:\Users\sean\.gradle\caches\transforms-3\918bde90d7975793083e4cdb3c3e3a73\transformed\jetified-GodotPlayGamesServices.release\AndroidManifest.xml:11:5-67
 27-->[GodotPlayGamesServices.release.aar] C:\Users\sean\.gradle\caches\transforms-3\918bde90d7975793083e4cdb3c3e3a73\transformed\jetified-GodotPlayGamesServices.release\AndroidManifest.xml:11:22-64
 28
 29    <application
-29-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:5-100:19
+29-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:5-100:19
 30        android:allowBackup="false"
-30-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:68-95
+30-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:68-95
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.2.0] C:\Users\sean\.gradle\caches\transforms-3\f468396e8f36529b92fb98842a149f3b\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
 32        android:debuggable="true"
 33        android:hasFragileUserData="false"
-33-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:118-152
+33-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:118-152
 34        android:icon="@mipmap/icon"
-34-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:238-265
+34-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:238-265
 35        android:isGame="true"
-35-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:96-117
+35-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:96-117
 36        android:label="@string/godot_project_name_string"
-36-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:18-67
+36-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:18-67
 37        android:requestLegacyExternalStorage="false" >
-37-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:30:153-197
+37-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:30:153-197
 38        <activity
-38-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:72:9-94:20
+38-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:72:9-94:20
 39            android:name="com.godot.game.GodotApp"
-39-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:73:13-37
+39-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:73:13-37
 40            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize|density|keyboard|navigation|screenLayout|uiMode"
-40-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:79:13-141
+40-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:79:13-141
 41            android:excludeFromRecents="false"
-41-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:77:13-47
+41-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:77:13-47
 42            android:label="@string/godot_project_name_string"
-42-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:74:13-62
+42-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:74:13-62
 43            android:launchMode="singleTask"
-43-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:76:13-44
+43-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:76:13-44
 44            android:resizeableActivity="false"
-44-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:80:13-47
+44-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:80:13-47
 45            android:screenOrientation="portrait"
-45-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:78:13-50
+45-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:78:13-50
 46            android:theme="@style/GodotAppSplashTheme" >
-46-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:75:13-55
+46-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:75:13-55
 47            <intent-filter>
-47-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:86:13-93:29
+47-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:86:13-93:29
 48                <action android:name="android.intent.action.MAIN" />
-48-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:87:17-69
-48-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:87:25-66
+48-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:87:17-69
+48-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:87:25-66
 49
 50                <category android:name="android.intent.category.LAUNCHER" />
-50-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:88:17-77
-50-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:88:27-74
+50-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:88:17-77
+50-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:88:27-74
 51
 52                <!--
 53                Enable access to OpenXR on Oculus mobile devices, no-op on other Android
 54                platforms.
 55                -->
 56                <category android:name="com.oculus.intent.category.VR" />
-56-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:92:17-74
-56-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:92:27-71
+56-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:92:17-74
+56-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:92:27-71
 57            </intent-filter>
 58        </activity>
 59        <!-- Records the version of the Godot editor used for building -->
@@ -100,17 +100,17 @@
 61            android:name="org.godotengine.editor.version"
 62            android:value="3.4.4.stable" />
 63        <meta-data
-63-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:61:9-62:46
+63-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:61:9-62:46
 64            android:name="com.google.android.gms.games.APP_ID"
-64-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:61:20-70
+64-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:61:20-70
 65            android:value="@string/app_id" />
-65-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:62:13-43
+65-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:62:13-43
 66        <meta-data
-66-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:64:7-65:68
+66-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:64:7-65:68
 67            android:name="com.google.android.gms.version"
-67-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:64:18-63
+67-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:64:18-63
 68            android:value="@integer/google_play_services_version" /> <!-- Records the version of the Godot library -->
-68-->D:\Documents\GITHUB-SHARED\MobileIDE\android\build\AndroidManifest.xml:65:13-66
+68-->D:\Documents\GitHub\mobile-ide\MobileIDE\android\build\AndroidManifest.xml:65:13-66
 69        <meta-data
 69-->[godot-lib.debug.aar] C:\Users\sean\.gradle\caches\transforms-3\b35bc23b2fd7ec894ca9e79e551d92ff\transformed\jetified-godot-lib.debug\AndroidManifest.xml:19:9-21:44
 70            android:name="org.godotengine.library.version"
